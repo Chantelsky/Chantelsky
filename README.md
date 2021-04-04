@@ -1,11 +1,11 @@
 # Chantel Laver—@Chantelsky
 
 ##### Hi, I'm Chantel— a frontend web developer that is working on transitioning to fullstack. I'm passionate about code and all things tech. Some technologies I enjoy working with include VueJS, Jamstack (JavaScript, APIS + Markup) and GraphQL.
-##### My goal for 2021 is to start collaborating on open source projects and contribute within the community.
+##### ✔️ My goal for 2021 is to start collaborating on open source projects and contribute within the community.
 ##### ⚡ Fun fact about me: Prior to getting into web development I was an aspiring 3D character artist focusing on creating art for the game industry.
 ## Get In Touch
-
-
+###### Personal Site: https://chantelsky.netlify.app
+###### Twitter: https://twitter.com/Chantel_sky
 <!--
 **Chantelsky/Chantelsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
