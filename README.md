@@ -1,4 +1,3 @@
-![Capture](https://user-images.githubusercontent.com/35864046/113506101-1840fa80-9586-11eb-8c6b-11b77e3fa2d5.PNG)
 # Chantel Laver—@Chantelsky
 
 Hi, I'm Chantel— a frontend web developer that is working on transitioning to fullstack. I'm passionate about code and all things tech. Some technologies I enjoy working with include VueJS, Jamstack (JavaScript, APIS + Markup) and GraphQL.
