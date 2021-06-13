@@ -1,6 +1,6 @@
 # Chantel Laver—@Chantelsky
 
-Hi, I'm Chantel— a frontend web developer that is working on transitioning to fullstack. I'm passionate about code and all things tech. Some technologies I enjoy working with include VueJS, Jamstack (JavaScript, APIS + Markup) and GraphQL.
+Hi, I'm Chantel— a frontend web developer that is working on transitioning to fullstack. I'm passionate about code and all things tech. Some technologies I enjoy working with include React, VueJS, Jamstack (JavaScript, APIS + Markup) and GraphQL.
 ## Get In Touch
 ###### Personal Site: https://chantelsky.netlify.app
 ###### Twitter: https://twitter.com/Chantel_sky
