@@ -1,9 +1,9 @@
-# Chantel Laver—@Chantelsky
+# Sup Nerds
 
-Hi, I'm Chantel— a frontend web developer that is working on transitioning to fullstack. I'm passionate about code and all things tech. Some technologies I enjoy working with include React, VueJS, Jamstack (JavaScript, APIS + Markup) and GraphQL.
-## Get In Touch
-###### Personal Site: https://chantelsky.netlify.app
-###### Twitter: https://twitter.com/Chantel_sky
+After spending a year with Vue, i've switched back over to react and lately coding as much as _humanly possible_. More specifically, I'm learning typescript, redux and will eventually check out next.js too!
+
+I'm a fairly curious person and I love learning new languages / frameworks and then building cool shit.
+
 <!--
 **Chantelsky/Chantelsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
