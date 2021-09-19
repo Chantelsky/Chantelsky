@@ -1,8 +1,4 @@
-# Sup Nerds
-
-After spending a year with Vue, i've switched back over to react and lately coding as much as _humanly possible_. More specifically, I'm learning typescript, redux and will eventually check out next.js too!
-
-I'm a fairly curious person and I love learning new languages / frameworks and then building cool shit.
+**Software Engineer at IntelliHR who enjoys working with React, TypeScript, GraphQL and sometimes laravel lighthouse 🤓**
 
 <!--
 **Chantelsky/Chantelsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
