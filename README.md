@@ -1,4 +1,4 @@
-**Software Engineer at IntelliHR who enjoys working with React, TypeScript, GraphQL and sometimes laravel lighthouse 🤓**
+**Software Engineer at IntelliHR who enjoys working with React, TypeScript and GraphQL**
 
 <!--
 **Chantelsky/Chantelsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
