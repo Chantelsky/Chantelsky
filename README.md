@@ -1,5 +1,6 @@
-**Software Engineer at IntelliHR who enjoys working with React, TypeScript and GraphQL**
+# Hi, I'm Chantel 👋 👩‍💻
 
+I'm a software engineer who is detail orientated with 2 years experience. I have a strong understanding of JavaScript and design principles. I spend a considerable portion of my time improving my skills or learning something new.
 <!--
 **Chantelsky/Chantelsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
