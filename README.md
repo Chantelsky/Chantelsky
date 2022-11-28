@@ -4,7 +4,7 @@
 🌱 I’m currently learning: Improving my skills in Unreal Engine and C++<br>
 💬 Ask me about: Transitioning from 3D art to Software Engineering<br>
 😄 Pronouns: She/Her<br>
-📫 How to reach me: LinkedIn 💼
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chantel-punt-2805a9189/) 💼
 
 <!--
 **Chantelsky/Chantelsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
