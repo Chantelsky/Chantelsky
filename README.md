@@ -1,7 +1,7 @@
 ## Hi, I'm Chantel 👋
 
 🔭 I’m currently working on: Action-RPG Style Game<br>
-🌱 I’m currently learning: C++ <br>
+🌱 I’m currently learning: Java <br>
 💬 Ask me about: Transitioning from 3D art to Software Engineering<br>
 😄 Pronouns: She/Her<br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chantel-punt-2805a9189/) 💼
