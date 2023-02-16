@@ -1,7 +1,7 @@
 ## Hi, I'm Chantel 👋
 
 🔭 I’m currently working on: <br>
-🌱 I’m currently learning: NodeJs/ Express. <br>
+🌱 I’m currently learning: Rust <br>
 💬 Ask me about: Transitioning from 3D art to Software Engineering<br>
 😄 Pronouns: She/Her<br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chantel-punt-2805a9189/) 💼
