@@ -1,6 +1,7 @@
 ## Hi, I'm Chantel 👋
+As a software engineer with 4 years of experience, I have honed my skills in frontend development and design. I am knowledgeable in modern Web technologies and tools. My passion lies in creating beautiful and functional user interfaces that deliver a seamless experience to users. I am constantly seeking to expand my skillset and stay up-to-date with the latest developments in the industry.
 
-🔭 I’m currently working on: <br>
+🔭 I’m currently working on: Upskilling<br>
 🌱 I’m currently learning: Rust <br>
 💬 Ask me about: Transitioning from 3D art to Software Engineering<br>
 😄 Pronouns: She/Her<br>
