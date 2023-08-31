@@ -1,8 +1,8 @@
 ## Hi, I'm Chantel 👋
 As a software engineer with four years of experience, I have developed a strong foundation in frontend development and design. Over the years, I have honed my skills in creating intuitive and visually appealing user interfaces that enhance the user experience.  However, I have recently shifted my focus towards improving my backend programming abilities.  I am committed to learning the latest tools and technologies in this area and applying them to create robust, efficient, and scalable applications. My goal is to become a well-rounded software engineer with expertise in both frontend and backend development, and to leverage this expertise to deliver exceptional products that meet the needs of end-users.
 
-🔭 I’m currently working on: Upskilling<br>
-🌱 I’m currently learning: react native <br>
+🔭 I’m currently working on: Task Management App with NodeJS, Prisma, React, Typescript<br>
+🌱 I’m currently learning:  <br>
 💬 Ask me about: Transitioning from 3D art to Software Engineering<br>
 😄 Pronouns: She/Her<br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chantel-punt-2805a9189/) 💼
