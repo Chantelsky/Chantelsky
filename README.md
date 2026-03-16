@@ -1,6 +1,12 @@
-### Hi there 👋, I'm Chantel Punt
-#### Fullstack Developer
-As a software engineer with four years of experience, I have a strong foundation in frontend development and design, specializing in TypeScript React, NextJs, and NodeJS. I excel at creating user-friendly and visually appealing interfaces. Additionally, I have developed my backend programming skills to create robust, efficient, and scalable applications. My goal is to continue improving my skills and deliver exceptional products that meet user needs.
+# Hi there 👋, I'm Chantel Punt
 
-- 💬 Ask me about Transitioning from 3D art to Software Engineering<br>
-- 🖊️ Blog that I sometimes update: https://chantelsky.hashnode.dev/
+Fullstack Software Engineer | Frontend Specialist based in Australia 🇦🇺
+
+With 5 years of industry experience, I bring a unique perspective to frontend development from my background in 3D character art, where I developed a sharp eye for detail, design, and user experience.
+
+I specialise in frontend development with React, TypeScript and Next.js, and have solid backend experience with Node.js and PHP. I care about building things that look great and work even better.
+
+## **Tech I love:**
+- React · TypeScript · Next.js · Node.js · PHP
+
+💬 Ask me about non-traditional paths into software engineering
