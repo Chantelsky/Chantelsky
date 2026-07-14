@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Chantel Punt
 
-Fullstack Software Engineer | Frontend Specialist based in Australia 🇦🇺
+Hi, I'm Chantel Punt 👋
 
-With 7 years of industry experience, I bring a unique perspective to frontend development from my background in 3D character art, where I developed a sharp eye for detail, design, and user experience.
+I'm a Full Stack Software Engineer based in Australia with 7 years of experience building modern web applications using React, Vue, TypeScript, Next.js, Node.js and PHP.
 
-I specialise in frontend development with React, TypeScript and Next.js, and have solid backend experience with Node.js and PHP. I care about building things that look great and work even better.
+I enjoy working across the stack, whether that's building intuitive user interfaces, designing APIs, or tracking down complex production issues. I'm naturally curious and love digging into data to understand how systems behave and finding practical, reliable solutions.
 
-## **Tech I love:**
-- React · TypeScript · Next.js · Node.js · PHP
+I've worked on everything from modernising legacy applications to delivering greenfield projects, and I enjoy collaborating with teams to build software that's maintainable, scalable and built with the end user in mind.
 
-💬 Ask me about non-traditional paths into software engineering
+Tech: React · Vue · TypeScript · Next.js · Node.js · PHP · GraphQL
+
